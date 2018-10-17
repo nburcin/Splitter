@@ -1,0 +1,2 @@
+# Splitter
+Practice using uisplitview
